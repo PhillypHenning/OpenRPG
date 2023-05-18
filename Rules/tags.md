@@ -12,3 +12,5 @@ The slippery tag is added to an object due to the rain. The DM determines that t
 
 ### Person
 The drenched tag is added to a person due to the rain. The DM determines that this tag means all movement actions are reduced by 5 feet and failing an agility check causes the person to fall prone.
+
+Jump back to [the first page](../README.md)

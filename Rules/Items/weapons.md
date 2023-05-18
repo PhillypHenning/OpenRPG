@@ -33,3 +33,5 @@ Ranged weapons have an ideal range, which is the optimal distance for the weapon
 
 ## Special Properties
 A property attribute is a descriptive modifier that can be applied to an item. These provide a greater level of detail about an item and can be used to give it special properties or effects. Property attributes can range from physical attributes such as "sharp" or "durable" to magical properties such as "vorpal" or "energy." Property attributes are applied by the Game Master and can be modified to suit individual needs.
+
+Jump back to [the first page](../README.md)

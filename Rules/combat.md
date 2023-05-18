@@ -7,3 +7,5 @@ A character's Zone of Control is the area within 5 feet of a character. This are
 Characters have Dodge Tokens they can use to make an attack made against them more difficult for their enemies to land. Each Dodge Token spent will increase the difficulty of the attack by 1 by default. Characters have a minimum of 0 and a maximum of 10 Dodge Tokens by default. Characters can spend only a single Dodge Token a turn by default. Finally Dodge Tokens use a reaction by default.
 
 There are few ways to refresh Dodge Tokens such as “resting” as determined by the game master, as well as in combat with a dodge action. 
+
+Jump back to [the first page](../README.md)

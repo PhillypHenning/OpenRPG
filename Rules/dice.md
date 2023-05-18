@@ -24,3 +24,5 @@ A passive skill duel describes the interaction between a passive character's ski
 
 ### Active Skill Duel
 An active duel represents a contest between two characters in which both characters attempt to outdo the other using a character's skill. Difficulty of the action is based on the opposing characters skill. Players use a world interaction to determine their results. The player who has scored higher wins the active skill duel, if it is a tie, then the DM should either have both succeed or neither as the evenly matched pair are unable to outdo the other.
+
+Jump back to [the first page](../README.md)

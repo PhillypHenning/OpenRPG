@@ -11,4 +11,7 @@ OpenRPG focuses on combat and interaction within the game. Combat is modeled aft
 
 # Ruleset
 
-1. [Characters](Character/character_properties.md) are a great starting point for players and dms alike.
+1. [Characters](Character/character_properties.md) rules are a great starting point for players and dms alike.
+1. [Dice Rolling Rules](Rules/dice.md) are how players and DMs alike will engage with the world
+1. [Tags](Rules/tags.md) provide a flexible way to alter people, items or scenes
+1. [Weapons](Rules/Items/weapons.md) and [Armor](Rules/Items/armor.md)
