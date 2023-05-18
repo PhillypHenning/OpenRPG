@@ -3,4 +3,4 @@ Armor applies a reduction to the total weapon damage of each attack. Total weapo
 
 So using the same [weapon example](weapons.md#weapon-attack-formula) from the weapons rules, if player1's total weapon damage is 2 and they attack a enemy with 1 armor, then total weapon damage is reduced to 1. If the total weapon damage is 1, then the armor will reduce it to 0.
 
-Jump back to [the first page](../README.md)
+Jump back to [the first page](../../README.md)
