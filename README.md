@@ -6,3 +6,9 @@ OpenRPG is a fantastic way to explore the world of Tabletop Roleplaying Games. I
 
 # Inspirations
 OpenRPG focuses on combat and interaction within the game. Combat is modeled after the Dungeons and Dragons combat mechanics with a few modifications to make it more accessible and varied. The tagging system from City of Mist inspired the OpenRPG tagging system which allows players to customize their characters, objects and scenes on the fly. Finally cooperative board game enjoyers will recognize a similar item stat block as those found in Zombicide. 
+
+
+
+# Ruleset
+
+1. [Characters](Character/character_properties.md) are a great starting point for players and dms alike.
