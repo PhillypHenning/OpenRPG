@@ -8,4 +8,19 @@ Characters have Dodge Tokens they can use to make an attack made against them mo
 
 There are few ways to refresh Dodge Tokens such as “resting” as determined by the game master, as well as in combat with a dodge action. 
 
+## Combat Actions
+| Rule | Description |
+|:--:|:--:|
+| Move | Move up to a character's movement speed |
+| Attack | Attack a target |
+| Dodge | Gain 1 Dodge token |
+| Interact | Interact with an object |
+| Disengage | You do not incur Reactions: Attacks of Opportunity |
+
+## Combat Reactions
+| Rule | Description |
+|:--:|:--:|
+| Attack of Opportunity | |
+| Dodge attack | |
+
 Jump back to [the first page](../README.md)
