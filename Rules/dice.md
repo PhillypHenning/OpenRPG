@@ -1,6 +1,6 @@
 # Dice Rules
 
-## World interaction - General and Trained Skill Checks
+## World interaction - [General](../Character/character_skills.md#general-skills) and [Trained](../Character/character_skills.md#trained-skills) Skill Checks
 
 Dice are used to determine how well, if at all, a character performs a given action. The size of the die is determined by the difficulty of the action, as determined by the game master. Once difficulty and a skill are selected, the character can review his character sheet and tags to determine whether any additional modifications can be included in their roll. The character needs to hit the maximum number on their die to be successful. 
 
@@ -9,7 +9,7 @@ Dice are used to determine how well, if at all, a character performs a given act
 | d4 | d6 | d8 | d10 | d12 | d20 |
 
 
-## Combat Interaction - Combat Skills
+## Combat Interaction - [Combat](../Character/character_skills.md#combat-skills) Skills
 Combat interactions invert the world interaction dice roll. The size of the die is determined by the proficiency of the character’s weapon skill, the higher the corresponding weapon skill, the smaller the die rolled. Modifiers are applied from character traits and relevant tags if any are applied.
 
 | 0 Skill Points | 1 Skill Points | 2 Skill Points | 3 Skill Points | 4 Skill Points | 5 Skill Points |
