@@ -1,9 +1,9 @@
 # Weapons
-## Weapon stat block
+## Melee
 
-| Number of attacks | Damage |
-|:---:|:---:|
-| The number of die rolled for the action | The damage that is done per success |
+| Weapon name | # of attacks | Weapon damage | Range | Additional Effects |
+|:---:|:---:|:---:|:---:|:---:|
+| Weapons Name | The number of die rolled for the action | The damage that is done per successful roll | Range of attack | Any additional effects |
 
 ## Weapon Attack Formula
 `(# of attacks)d(difficulty)+(modifiers) = Total weapon damage`
@@ -28,7 +28,14 @@ Dual-wielding allows a player to use two weapons akimbo style to gain certain be
 Difficulty +2
 ```
 
+---
+
 ## Range
+
+| Weapon name | # of attacks | Weapon damage | Range | Uses per round |Additional Effects |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Weapons Name | The number of die rolled for the action | The damage that is done per successful roll | Range of attack |Number of times the weapon can be used in a round| Any additional effects |
+
 Ranged weapons have an ideal range, which is the optimal distance for the weapon to be used. If a character attacks a target within the ideal range, they use the standard stat block. However, if the character attacks a target outside of the ideal range, the total damage of the attack is halved to a minimum of 0. This reflects the fact that weapons are less effective when used at longer distances.
 
 ## Special Properties
